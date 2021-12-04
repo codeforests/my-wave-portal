@@ -1,0 +1,4 @@
+C:\Users\codef\BuildSpace\my-wave-portal>npx hardhat run scripts/deploy.js --network rinkeby
+Deploying contracts with account:  0x4F47A257cEA64D3C8078459f9386a6F4e93984dc
+Account balance:  25000000000000000
+WavePortal address:  0xdAE3f13d4Fc3faD0D8eb0CB15A0d26846f783058
