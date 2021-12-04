@@ -13,5 +13,8 @@ npx hardhat node
 npx hardhat help
 ```
 
-To deploy the contract locally: npx hardhat run scripts/run.js
-To deploy the contract to other networks, e.g. rinkeby: npx hardhat run scripts/deploy.js --network rinkeby 
+To deploy the contract locally: 
+  npx hardhat run scripts/run.js
+
+To deploy the contract to other networks, e.g. rinkeby: 
+  npx hardhat run scripts/deploy.js --network rinkeby 
