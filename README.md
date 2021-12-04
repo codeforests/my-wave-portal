@@ -10,6 +10,8 @@ npx hardhat compile
 npx hardhat clean
 npx hardhat test
 npx hardhat node
-node scripts/sample-script.js
 npx hardhat help
 ```
+
+To deploy the contract locally: npx hardhat run scripts/run.js
+To deploy the contract to other networks, e.g. rinkeby: npx hardhat run scripts/deploy.js --network rinkeby 
